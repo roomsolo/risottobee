@@ -1,2 +1,2 @@
 # risottobee
-A simple Spelling Bee web appç
+A simple Spelling Bee web app.
